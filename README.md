@@ -1,8 +1,8 @@
-# OIBSIP_Task4
-# OIBSIP_internshipforcybersecurity_Task4
+# OIBSIP_Task3
+# OIBSIP_internshipforcybersecurity_Task3
 Performed SQL Injection on DVWA (Low Security) to demonstrate how malicious users can exploit the databases of a organization.
 
-# Task 4: SQL Injection on DVWA (Low Security)
+# Task 3: SQL Injection on DVWA (Low Security)
 
 ## Objective
 To demonstrate a basic SQL Injection vulnerability using DVWA with the security level set to LOW.
